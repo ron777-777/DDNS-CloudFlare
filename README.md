@@ -7,7 +7,7 @@ sudo vim cf-v4-ddns.sh
 ```
 修改  
 `CFKEY`  
-在此获取https://www.cloudflare.com/a/account/my-account
+在此获取https://www.cloudflare.com/a/account/my-account  
 `CFUSER`  
 `CFZONE_NAME`  
 `CFRECORD_NAME`  
