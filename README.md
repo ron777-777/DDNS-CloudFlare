@@ -10,6 +10,10 @@ sudo vim cf-v4-ddns.sh
 `CFUSER`  
 `CFZONE_NAME`  
 `CFRECORD_NAME`  
+`CFRECORD_TYPE`  
+`PROXY`  
+`CFTTL`  
+`FORCE`  
 定时更新使用
 `crontab -e`
 在最后加上
