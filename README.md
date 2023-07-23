@@ -17,5 +17,5 @@ sudo vim cf-v4-ddns.sh
 定时更新使用
 `crontab -e`
 在最后加上
-`*/2 * * * * /usr/local/bin/cf-ddns.sh >/dev/null 2>&1` 
+`*/2 * * * * /root/cf-v4-ddns.sh >/dev/null 2>&1` 
 
