@@ -6,10 +6,10 @@ sudo chmod +x cf-v4-ddns.sh
 sudo vim cf-v4-ddns.sh
 ```
 修改  
-CFKEY  
-CFUSER  
-CFZONE_NAME  
-CFRECORD_NAME  
+`CFKEY`  
+`CFUSER`  
+`CFZONE_NAME`  
+`CFRECORD_NAME`  
 定时更新使用
 `crontab -e`
 在最后加上
